@@ -24,10 +24,9 @@ This Python script parses WhatsApp chat exports (`.txt`), lets you pick a date r
 
 1.  **Clone:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/whatsapp-chat-summarizer.git
+    git clone https://github.com/marleen01/whatsapp-chat-summarizer.git
     cd whatsapp-chat-summarizer
     ```
-    *(Replace `YOUR_USERNAME`)*
 
 2.  **Setup Environment:**
     ```bash
